@@ -1,0 +1,14 @@
+natoms	400
+volfrac	0.3
+temp 1.0
+timestep    0.0001
+totalSteps  1000000
+writeEvery  1000
+myseed	10
+kick	6
+temp_eff	0.2
+rods	1
+rodspacing 1.0
+restart 0
+restartfile end.lammpstrj 
+equilibrate 1
